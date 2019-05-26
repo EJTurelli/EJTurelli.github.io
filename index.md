@@ -3,7 +3,7 @@
 ### Analista, Programador, Gerente de TIC
 ### Tecnologías de Información y Comunicaciones
 
-[https://es.linkedin.com/in/ejturelli](https://es.linkedin.com/in/ejturelli)
+[https://linkedin.com/in/ejturelli/es](https://linkedin.com/in/ejturelli/es)
 
 [http://github.com/ejturelli](http://github.com/ejturelli)
 
