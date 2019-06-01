@@ -1,2 +1,2 @@
 # EJTurelli.github.io
-Mi primer html en github
+Página de presentación profesional de Ernesto Turelli.
