@@ -78,9 +78,9 @@
 *Ene. de 2000 – actualidad*
 
 Principalmente desarrollando software basado en web, además de integración de sistemas y creación de paneles de control. Utilizando diversos lenguajes y tecnologías
+* Html, Css, JQuery, Bootstrap, Angular
 * JavaScript, C, Php, Dart
 * MySql, MsSql
-* Html, Css, JQuery, Bootstrap
 * Apache Active MQ
 * Zabbix, Grafana
 
